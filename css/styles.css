@@ -79,7 +79,18 @@
     scroll-behavior: smooth;
   }
 }
-
+.colortext {
+  color: #43acd9; /* Червоний колір виділення */
+}
+.colortext1 {
+  color: red; /* Червоний колір виділення */
+}
+.colortext2 {
+  color: green; /* Червоний колір виділення */
+}
+.colortext3 {
+  color: orange; /* Червоний колір виділення */
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
