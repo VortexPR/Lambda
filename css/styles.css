@@ -79,6 +79,24 @@
     scroll-behavior: smooth;
   }
 }
+.med {}
+.med1(margin-top: auto;)
+.desm {
+	display:none;
+}
+@media (max-width: 1366px) {
+  .med {
+	  display: none;
+  }
+  .desm {
+	  display: flex;
+  }
+  .med1 {
+	  margin-top: 100px;
+  }
+  
+
+}
 .colortext {
   color: #43acd9; /* Червоний колір виділення */
 }
